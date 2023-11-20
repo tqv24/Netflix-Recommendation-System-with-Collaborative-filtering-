@@ -27,3 +27,5 @@ Movies are recommended for a specific user (ID: 785314) using collaborative filt
 A recommendation function is introduced based on Pearsons' R correlations. Users can input a movie title, and the system provides the top 10 recommended movies with the highest correlations.
 
 Feel free to experiment with different movie titles, user IDs, and parameters to explore personalized recommendations.
+
+## Data set: https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
