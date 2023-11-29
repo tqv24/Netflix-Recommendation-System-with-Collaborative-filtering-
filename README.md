@@ -28,4 +28,5 @@ A recommendation function is introduced based on Pearsons' R correlations. Users
 
 Feel free to experiment with different movie titles, user IDs, and parameters to explore personalized recommendations.
 
-## Data set: https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
+## Data set: 
+https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
